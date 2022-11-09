@@ -1,0 +1,24 @@
+
+The program at hand is intended to find the roots of a polynomial function.
+
+Instructions for Use:
+
+Input a function of x in the form: CoefficientxPower+CoefficientxPower-Numberc.
+
+For example: f(x) = x+3.00x6-3324.00x4+5390.00x9-5.00c
+
+If the function has a constant number, a c must be entered after it.
+
+Where every coefficient has two decimal places.
+
+The function can be as long as 100 Characters, and have powers of x up to 10.
+
+The highest coefficient or constant number allowed is 9999.99.
+
+The program will then ask for a range to look for roots of x, any range may be inputted.
+
+The program finds the  roots inside the range, and if there are none then it computes the nearest root.
+
+If the  function has no real roots, then the program will alert so.
+
+Code by: Mariano Arce
